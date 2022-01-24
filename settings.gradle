@@ -1,0 +1,5 @@
+rootProject.name = 'traceable-quickstart'
+
+include 'left-service'
+include 'right-service'
+include 'tracer-service'
